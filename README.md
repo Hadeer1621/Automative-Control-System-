@@ -1,6 +1,6 @@
 # Automative-Control-System-
 Automotive Control System project based on STM32
-##  <font color="green"> Introduction </font>
+##  @@ Introduction in purple (and bold)@@
 The primary objective of this project is to simulate the control system in the car that is based on some conditions and calculations that need to be fulfilled for the 
 car to be ready to be on the road.
 ## Features
