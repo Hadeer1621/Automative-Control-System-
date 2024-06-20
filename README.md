@@ -16,11 +16,10 @@ the microcontroller for it to control the braking system and decrease the car sp
 • An image will be displayed on the TFT to describe the car door status.
 • All communications in the system are established through serial connections (UART & SPI). 
 ##  <code style="color : red">Working Scenario</code>
-• The driver presses the remote button which sends a signal to unlock the car door if the signal is correct. 
-• If the signal is correct, he will insert the key in the car which sends a signal to start the system. 
-• Then the system checks the temperature, battery, and tire pressure levels from their sensors and displays them on the screen. 
-• After that the system decides whether to activate the cooling system (air conditioning) or not and whether to start the car engine or not based on 
-the readings that were received from the tire pressure and battery level sensors. 
+- The driver presses the remote button which sends a signal to unlock the car door if the signal is correct. 
+* If the signal is correct, he will insert the key in the car which sends a signal to start the system. 
++ Then the system checks the temperature, battery, and tire pressure levels from their sensors and displays them on the screen. 
+• After that the system decides whether to activate the cooling system (air conditioning) or not and whether to start the car engine or not based on the readings that were received from the tire pressure and battery level sensors. 
 • When the car starts, the driver can control the speed of the car using the pedal and the collision avoidance system will automatically decrease the car’s speed if the distance between the car and its adjacent vehicle becomes too small
 
 
